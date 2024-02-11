@@ -1,4 +1,4 @@
-Hi !My name is Vedant
+Hi! My name is Vedant
 ==============================================================================================================================
 
 Frontend Developer and UI/UX Designer
