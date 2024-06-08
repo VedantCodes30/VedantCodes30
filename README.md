@@ -7,9 +7,9 @@ Frontend Developer and UI/UX Designer
 I've recently started learning web development and have an interest in visual side of thing internet.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://vedantcodes30.github.io/vedant.github.io/)
+* 🖥️  See my portfolio at [My Portfolio](http://vedantcodes30.github.io/)
 * ✉️  You can contact me at [vedantcodes30@gmail.com](mailto:vedantcodes30@gmail.com)
-* 🚀  I'm currently working on [My Portfolio website](http://vedantcodes30.github.io/vedant.github.io/)
+* 🚀  I'm currently working on [My Portfolio website](http://vedantcodes30.github.io)
 * 🧠  I'm learning Frontend Developments on Codeademy.
 * ⚡  Have an interest in learning Figma and other UI Tools.
 
