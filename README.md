@@ -17,7 +17,7 @@ I'm a passionate **Frontend Developer** focused on crafting elegant, user-friend
 - [🎬 Movie Explorer]([(https://movie-app-pearl-alpha.vercel.app/])) – Search & explore movies using TMDB API
 
 ## 📫 Let's Connect
-- **Portfolio:** Coming Soon!
+- **Portfolio:** [vedantcodes]([https://vedantcodes.com/])
 - **LinkedIn:** [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/vedant-kale-a053a424a/))
 
 
