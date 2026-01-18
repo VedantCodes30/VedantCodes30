@@ -15,11 +15,12 @@ I'm a passionate **Frontend Developer** focused on crafting elegant, user-friend
 
 ## 📌 Projects
 - [🎬 Movie Explorer]([(https://movie-app-pearl-alpha.vercel.app/])) – Search & explore movies using TMDB API
+- [PersonaQuest]([https://personaquest.netlify.app/]) - Answer simple flashcard-style questions and unlock your MBTI type — fast, fun, and insightful.
+- [Timeisrelative]([https://timeisreleative.netlify.app/]) - A simple yet sleek stopwatch, made using react.
+- [View-Transitions]([https://view-transitions-a.netlify.app/]) - Testing the new View-transition-api for seamless and native web transitions and animations.
 
 ## 📫 Let's Connect
 - **Portfolio:** [vedantcodes]([https://vedantcodes.com/])
-- **LinkedIn:** [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/vedant-kale-a053a424a/))
-
-
+- **LinkedIn:** [linkedin.com/in/yourusername]([https://www.linkedin.com/in/vedantkale-dev/]))
 ---
 
