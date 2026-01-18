@@ -26,6 +26,6 @@ I'm a passionate **Frontend Developer** focused on crafting elegant, user-friend
 
 * **Portfolio:** [vedantcodes.com](https://vedantcodes.com/)
 * **LinkedIn:** [linkedin.com/in/vedantkale-dev](https://www.linkedin.com/in/vedantkale-dev/)
-* **GitHub:** [@vedant-kale](https://github.com/vedant-kale) 
+* **GitHub:** [@vedant-kale](https://github.com/vedantcodes30) 
 
 ---
